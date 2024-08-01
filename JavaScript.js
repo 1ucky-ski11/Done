@@ -69,9 +69,156 @@
 // }
 // console.log(plant)
 
+// const house ={
+//     name:"modern",
+//     year:2016
+// }
+// console.log(house)
+//
+// const room ={
+//     name:"it ",
+//     year:2030
+// }
+// console.log(room)
+//
+// const country ={
+//     name:French
+// }
+// console.log(country)
+//
+// const tv ={
+//     name:"artel",
+//     year:2020
+// }
+// console.log(tv)
+//
+// const computer ={
+//     name:"hp",
+//     year:2024
+// }
+// console.log(computer)
+//
+// const friend={
+//     name:"James",
+//     born:2000
+// }
+// console.log(friend)
+
+// const fruit ={
+//     name:"Apple",
+//     taste:delicious
+// }
+// console.log(fruit)
+//
+// const girl ={
+//     name:"Ammy",
+//     born:2001
+// }
+// console.log(girl)
+//
+// const country ={
+//     name:"Japan"
+// }
+// console.log(country)
+//
+// const  game ={
+//     name:"PES 2017",
+//     year:2016
+// }
+// console.log(game)
+//
+// const computer ={
+//     name:"AOS",
+//     year:2019
+// }
+// console.log(computer)
+//
+// const plant ={
+//     name:"flower",
+//     type:rare
+// }
+// console.log(plant)
 
 
-// 12 ta
+// 24 taa
+
+// const car ={
+//     name:"Toyota",
+//     year:2022
+// }
+// console.log(car)
+//
+// const phone ={
+//     name:"Ios",
+//     year:2020
+// }
+// console.log(phone)
+//
+// const country ={
+//     name:"Kazahstan"
+// }
+// console.log(country)
+//
+// const product ={
+//     name:"clothes",
+//     brand:"Dior"
+// }
+// console.log(product)
+//
+// const bag ={
+//     brand:"Hermes",
+//     made of:lather
+// }
+// console.log(bag)
+//
+// const boy ={
+//     name:"George",
+//     born:1984
+// }
+// console.log(boy)
+
+// const  factory={
+//     name:"NGMK",
+//     year:1991
+// }
+// console.log(factory)
+//
+// const girl ={
+//     name:"Bella",
+//     born:2003
+// }
+// console.log(girl)
+//
+// const city ={
+//     name:"Navoi"
+// }
+// console.log(city)
+//
+// const  game ={
+//     name:"Mobile legends",
+//     year:2004
+// }
+// console.log(game)
+//
+// const perfume ={
+//     brand:shaik
+// }
+// console.log(perfume)
+//
+// const plant ={
+//     name:"chamomile",
+//     type:rare
+// }
+// console.log(plant)
+
+.
+    ..
+..
+
+..
+.
+.
+
 
 
 // const house ={
@@ -143,3 +290,7 @@
 //     type:rare
 // }
 // console.log(plant)
+
+
+// 24 taa
+
