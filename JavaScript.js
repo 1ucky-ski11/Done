@@ -211,86 +211,73 @@
 // }
 // console.log(plant)
 
-.
-    ..
-..
-
-..
-.
-.
-
-
-
-// const house ={
-//     name:"modern",
-//     year:2016
+// const window ={
+//     brand:"akfa",
+//     year:2021
 // }
-// console.log(house)
+// console.log(window)
 //
-// const room ={
-//     name:"it ",
-//     year:2030
+// const city ={
+//     name:"New York",
+//     year:2050
 // }
-// console.log(room)
+// console.log(city)
 //
 // const country ={
-//     name:French
+//     name:Germany
 // }
 // console.log(country)
 //
 // const tv ={
-//     name:"artel",
-//     year:2020
+//     name:"LG",
+//     year:2023
 // }
 // console.log(tv)
 //
-// const computer ={
-//     name:"hp",
+// const chair ={
+//     made of:"wood",
 //     year:2024
 // }
-// console.log(computer)
+// console.log(chair)
 //
-// const friend={
-//     name:"James",
-//     born:2000
-// }
-// console.log(friend)
-
-// const fruit ={
-//     name:"Apple",
-//     taste:delicious
-// }
-// console.log(fruit)
-//
-// const girl ={
-//     name:"Ammy",
+// const brother={
+//     name:"Nick",
 //     born:2001
 // }
-// console.log(girl)
+// console.log(brother)
+
+// const subject ={
+//     name:"English",
+// }
+// console.log(subject)
+//
+// const sister ={
+//     name:"Susan",
+//     born:2004
+// }
+// console.log(sister)
 //
 // const country ={
-//     name:"Japan"
+//     name:"Korea"
 // }
 // console.log(country)
 //
 // const  game ={
-//     name:"PES 2017",
-//     year:2016
+//     name:"Dota-2",
+//     year:2022
 // }
 // console.log(game)
 //
-// const computer ={
-//     name:"AOS",
-//     year:2019
+// const taem ={
+//     name:"fc Real Madrid",
+//     year:1988
 // }
-// console.log(computer)
+// console.log(team)
 //
-// const plant ={
-//     name:"flower",
-//     type:rare
+// const footballPlayer ={
+//     name:"Messi",
 // }
-// console.log(plant)
+// console.log(footballPlayer)
 
-
-// 24 taa
+// 48 taa
 
