@@ -275,9 +275,25 @@
 // console.log(team)
 //
 // const footballPlayer ={
-//     name:"Messi",
+//     name:"Messi
 // }
 // console.log(footballPlayer)
 
-// 48 taa
+// const  game ={
+//     name:"Fc mobile",
+//     year:2022
+// }
+// console.log(game)
+//
+// const taem ={
+//     name:"fc Barselons",
+//     year:1988
+// }
+// console.log(team)
+//
+// const footballPlayer ={
+//     name:"Ronaldo"
+// }
+// console.log(footballPlayer)
 
+// 51 taaa
